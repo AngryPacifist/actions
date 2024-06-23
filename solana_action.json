@@ -1,18 +1,5 @@
-  {
-    "label": "Donate to Outis",
-    "icon": "https://pbs.twimg.com/profile_images/1789746225895317504/5iJ7FDQq_400x400.jpg",
-    "transactions": [
-      {
-        "name": "Donate",
-        "url": "",
-        "type": "transaction"
-      }
-    ]
-  }
-  
-
-
-  "icon": "<url-to-image>",
+{
+  "icon": "https://pbs.twimg.com/profile_images/1789746225895317504/5iJ7FDQq_400x400.jpg",
   "label": "Donate SOL",
   "title": "Donate to Outis",
   "description": "Help support my work by donating SOL.",
