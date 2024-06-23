@@ -44,7 +44,7 @@
     "actions": [
       {
         "label": "Donate", 
-        "href": "https://app.hel.io/pay/6671aa06ae01816aad66c642", 
+        "href": "solana:BZTx18qmTDC4ivNaKwy3giSdqHUtDqsCAwSBtf1Gffym?amount=1&label=Donate+to+Outis&message=Thank+you+for+your+support%21", 
         "parameters": [
           {
             "name": "amount", 
