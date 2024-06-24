@@ -7,7 +7,7 @@
     "actions": [
       {
         "label": "Donate", 
-        "href": "https://actions.dialect.to/?action=solana-action:https://raw.githubusercontent.com/AngryPacifist/actions/main/solana_action.json", 
+        "href": "https://app.hel.io/pay/6671aa06ae01816aad66c642", 
         "parameters": [
           {
             "name": "amount", 
