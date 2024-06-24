@@ -7,7 +7,7 @@
     "actions": [
       {
         "label": "Donate", 
-        "href": "solana:BZTx18qmTDC4ivNaKwy3giSdqHUtDqsCAwSBtf1Gffym?amount=1&label=Donate+to+Outis&message=Thank+you+for+your+support%21", 
+        "href": "https://actions.dialect.to/?action=solana-action:https://raw.githubusercontent.com/AngryPacifist/actions/main/solana_action.json", 
         "parameters": [
           {
             "name": "amount", 
